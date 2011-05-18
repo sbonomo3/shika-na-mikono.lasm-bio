@@ -36,13 +36,13 @@
   }
   \providecommand\rotatebox[2]{#2}
   \ifx\svgwidth\undefined
-    \setlength{\unitlength}{517.5550293pt}
+    \setlength{\unitlength}{517.55669817pt}
   \else
     \setlength{\unitlength}{\svgwidth}
   \fi
   \global\let\svgwidth\undefined
   \makeatother
-  \begin{picture}(1,2.32835465)%
+  \begin{picture}(1,2.32834831)%
     \put(0,0){\includegraphics[width=\unitlength]{co2-limewater.pdf}}%
   \end{picture}%
 \endgroup
