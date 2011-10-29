@@ -3,6 +3,6 @@ syntax:glob
 *.aux
 *.synctex.gz
 *.toc
-*.pdf
+lasm-bio.pdf
 *.log
 *.out
