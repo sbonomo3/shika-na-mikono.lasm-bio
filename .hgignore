@@ -1,0 +1,8 @@
+syntax:glob
+
+*.aux
+*.synctex.gz
+*.toc
+*.pdf
+*.log
+*.out
